@@ -1,6 +1,8 @@
 # Sobre o projeto
 Projeto Sistema de Jogo de Xadrez.
 
+O jogo é executável pelo terminal e inclui recursos avançados, como movimentos especiais, jogadas especiais como En Passant, Roque, Promoção e verificação de xeque e xeque-mate.
+
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/LuizRenatoC/chess-system-java/blob/main/LICENCE)
 
 ## Modelo conceitual
